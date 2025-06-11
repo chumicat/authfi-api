@@ -12,7 +12,7 @@ with open('requirements.txt') as f:
 
 setup(
     name="authfi-api",
-    version="0.0.2",
+    version="0.0.3",
     author="chumicat",
     author_email="russell57260620@gmail.com",
     description="Python wrapper for Authentrend AuthFi WebAuthn/FIDO2 API",
