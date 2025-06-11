@@ -12,13 +12,13 @@ with open('requirements.txt') as f:
 
 setup(
     name="authfi-api",
-    version="1.0.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    version="0.0.2",
+    author="chumicat",
+    author_email="russell57260620@gmail.com",
     description="Python wrapper for Authentrend AuthFi WebAuthn/FIDO2 API",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/authfi-api",
+    url="https://github.com/chumicat/authfi-api",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
@@ -39,8 +39,8 @@ setup(
     install_requires=requirements,
     keywords="webauthn fido2 authentication authfi authentrend security",
     project_urls={
-        "Bug Reports": "https://github.com/yourusername/authfi-api/issues",
-        "Source": "https://github.com/yourusername/authfi-api",
-        "Documentation": "https://github.com/yourusername/authfi-api#readme",
+        "Bug Reports": "https://github.com/chumicat/authfi-api/issues",
+        "Source": "https://github.com/chumicat/authfi-api",
+        "Documentation": "https://github.com/chumicat/authfi-api#readme",
     },
 )

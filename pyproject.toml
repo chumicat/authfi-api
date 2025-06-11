@@ -4,13 +4,13 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "authfi-api"
-version = "0.0.1"
+version = "0.0.2"
 description = "Python wrapper for Authentrend AuthFi WebAuthn/FIDO2 API"
 readme = "README.md"
 license = "MIT"
 license-files = ["LICENSE"]
 authors = [
-    {name = "Chumicat", email = "russelltseng@gmail.com"}
+    {name = "chumicat", email = "russelltseng@gmail.com"}
 ]
 keywords = ["webauthn", "fido2", "authentication", "authfi", "authentrend", "security"]
 classifiers = [
@@ -36,7 +36,7 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/authfi-api"
-Repository = "https://github.com/yourusername/authfi-api"
-Issues = "https://github.com/yourusername/authfi-api/issues"
-Documentation = "https://github.com/yourusername/authfi-api#readme"
+Homepage = "https://github.com/chumicat/authfi-api"
+Repository = "https://github.com/chumicat/authfi-api"
+Issues = "https://github.com/chumicat/authfi-api/issues"
+Documentation = "https://github.com/chumicat/authfi-api#readme"
